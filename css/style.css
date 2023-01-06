@@ -1,0 +1,13 @@
+
+.text-small {
+    font-size: 0.9rem !important;
+}
+
+body {
+    background-color: white; /* For browsers that do not support gradients */
+    background-image: linear-gradient(white, lightblue);
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}

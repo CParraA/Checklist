@@ -1,0 +1,35 @@
+@charset "UTF-8";
+/* custom style for login page */
+.card {    
+    padding: 15px;
+    max-width: 400px;
+    height: auto;
+    margin: 10px auto;
+    text-align: center;
+}
+/* /end custom style for login page */
+
+body {
+   background-color: lightblue; /* For browsers that do not support gradients */
+   
+}
+
+p {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+ h1, h3 {
+    margin-top: 30px;
+}
+.img-logo
+{
+    height: 200px;
+    width: 350px;
+    padding-left: 0%;
+    padding-top: 0%;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
